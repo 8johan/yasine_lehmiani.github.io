@@ -51,7 +51,7 @@ export const projects = {
     },
     {
       projectName: "Twitter US Airline Sentiment classification",
-      image: "images/findyourbank.png",
+      
       summary:
         "compare SVM and LSTM for Twitter US Airline Sentiment classification in order to build the best classification model ..",
       preview: "https://github.com/8johan/deep-learning/blob/main/sentiment_classification1.ipynb",
@@ -59,7 +59,7 @@ export const projects = {
     },
     {
       projectName: "pytorch implementation of U-Net and its variant",
-      image: "images/portfolio.png",
+      
       summary:
         "implement U-NET ,Attention u-net ,Spatial attention U-Net,U-net++ and Residual U-NET using pytorch.",
       preview: "https://github.com/8johan/deep-learning/blob/main/U_net_models.ipynb",
@@ -70,7 +70,7 @@ export const projects = {
   softwareProjects: [
     {
       projectName: "Testosterone Deficiency classification",
-      image: "images/pizzaorderchatbot.png",
+      
       summary:
         "build a Testosterone Deficiency classification model using Randomforest.",
       preview: "https://github.com/8johan/ML-PROJECT/tree/main",
@@ -150,7 +150,7 @@ export const footer = [
       },
       {
         text: "Clone this page",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://yasinelehmiani.github.io/yasine_lehmiani.github.io/",
       },
     ],
   },
@@ -159,22 +159,15 @@ export const footer = [
     data: [
       {
         text: "Linkedin",
-        link: "https://www.linkedin.com/in/vinaysomawat/",
+        link: "www.linkedin.com/in/yasine-lehmiani-420494200",
       },
-      {
-        text: "Twitter",
-        link: "https://twitter.com/thesigmakid",
-      },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      },
+      
     ],
   },
   {
     label: "copyright-text",
     data: [
-      "Made with &hearts; by Vinay Somawat.",
+      "Made with &hearts; by yasine lehmiani.",
       "&copy; No Copyrights. Feel free to use this template.",
     ],
   },
