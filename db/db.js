@@ -5,7 +5,7 @@ export const bio = [
 export const skills = [
   {
     title: "Languages",
-    skillName: "python, C",
+    skillName: "python, C,java",
     color: "1",
     percentage: "80",
   },
