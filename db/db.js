@@ -133,7 +133,7 @@ export const footer = [
       },
       {
         text: "Clone this page",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://yasinelehmiani.github.io/yasine_lehmiani.github.io/",
       },
     ],
   },
