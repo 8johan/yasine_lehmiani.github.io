@@ -1,9 +1,5 @@
 export const bio = [
-  "Hello there &#128075;",
-  "I'm Vinay Somawat, a Software Engineer at Biofourmis India with a specialization in JavaScript Applications. I have a passion for all things tech and consider myself a curious and enthusiastic developer.",
-  "Apart from coding, I love to read, listen to music, and travel.",
-  "As a lifelong learner, I'm always seeking new knowledge and experiences to broaden my perspective and enhance my skills.",
-  "Thanks for taking the time to learn a little about me!",
+  "I am Yasine Lehmiani, a PhD student at LIMIARF in UM5. My research area of interest focuses on the application of deep learning in medical imaging. I am passionate about leveraging advanced computer vision techniques to improve the field of medical diagnostics and image analysis",
 ];
 
 export const skills = [
