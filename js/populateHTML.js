@@ -4,11 +4,11 @@ import {
   URLs,
   projects,
   education,
-  Publications,
+  experience,
   footer,
 } from "../db/db.js";
 
-const { disclaimer, DeepLearning, MachineLearning, Datascience } =
+const { disclaimer, webProjects, softwareProjects, androidProjects, freelanceProjects } =
   projects;
 const { mediumURL } = URLs;
 
@@ -409,13 +409,13 @@ populateSkills(skills, "skills");
 
 fetchBlogsFromMedium(mediumURL);
 
-populateProjects(DeepLearning, "Deep-Learning");
-populateProjects(MachineLearning, "Machine-Learning");
-populateProjects(Datascience, "Data-science");
-
+populateProjects(webProjects, "web-projects");
+populateProjects(softwareProjects, "software-projects");
+populateProjects(androidProjects, "android-projects");
+populateProjects(freelanceProjects, "freelance-projects");
 populateDisclaimer(disclaimer, "project-disclaimer");
 
-populateExp_Edu(Publications, "Publications");
+populateExp_Edu(experience, "experience");
 populateExp_Edu(education, "education");
 
 populateLinks(footer, "footer");
