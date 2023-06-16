@@ -39,11 +39,11 @@ export const skills = [
 
 export const projects = {
   disclaimer:
-    "*** All the projects I listed were completed during my college-level development journey. As for my work at the industry level, those projects are confidential and cannot be disclosed.",
+    "*** ",
   webProjects: [
     {
       projectName: "Retinal Vessel segmentation",
-      image: "images/programmingdiaries.png",
+     
       summary:
         "We build a segmentation model for retinal vessels using U-Net ,Attention Gate U-Net and Spatial attention U-net.",
       preview: "https://github.com/8johan/retinalseg",
